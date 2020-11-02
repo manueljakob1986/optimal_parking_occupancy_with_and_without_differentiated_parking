@@ -1,2 +1,6 @@
 # Optimal parking occupancy with and without differentiated parking
-The framework is implemented with the aid of a simple numerical solver such as Matlab. That data includes the time stamps of all cars arriving to the area, and the times they leave the area after parking, as well as the parking occupancy in the area at the start of our simulation.
+This repository presents our framework for the publication: Jakob, M., and M. Menendez. 2020. “Optimal Parking Occupancy with and without Differentiated Parking: A Macroscopic Analysis”. Submitted to Transport Policy.
+
+It represents the code required to run simulations for our dynamic macroscopic traffic and parking model focusing on optimal parking occupancy policies with and without differentiated parking. The code is implemented with the aid of a simple numerical solver such as Matlab.
+
+Manuel Jakob, ETH Zürich, November 2020 Contact: manuel.jakob@ivt.baug.ethz.ch
